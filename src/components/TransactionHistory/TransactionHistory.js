@@ -34,7 +34,3 @@ TransactionHistory.propTypes = {
     })
   ),
 };
-//    "id": "9c5c25fb-1a95-4b2f-8d1f-4c4426d677cc",
-//     "type": "invoice",
-//     "amount": "14.79",
-//     "currency": "PYG"
